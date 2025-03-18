@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Janani - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#resume">Resume</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <div class="section-content">
+            <center>
+                <h1>Hi, I'm Janani</h1>
+                <p>B.Sc Computer Science Student | Web Developer | Programmer</p>
+            </center>
+        </div>
+    </section>
+
+    <section id="projects">
+        <div class="section-content">
+            <center>
+                <h2>My Projects</h2>
+                <ul>
+                    <li><a href="https://github.com/janani/TNSDC_SDP" target="_blank">Cloud Security IBM</a></li>
+                    <li><a href="https://github.com/janani/TNSDC_Jan_2025_Madras_University" target="_blank">IBM Chatbot</a></li>
+                    <li><a href="https://github.com/janani/CollegePortal" target="_blank">College Portal</a></li>
+                </ul>
+            </center>
+        </div>
+    </section>
+
+    <section id="resume">
+        <div class="section-content">
+            <center>
+                <h2>Resume</h2>
+                <a href="Janani_Resume.pdf" target="_blank" class="download-button">Download CV</a>
+            </center>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="section-content">
+            <center>
+                <h2>Contact Me</h2>
+                <p>Email: <a href="mailto:janani@example.com">janani@example.com</a></p>
+                <p>LinkedIn: <a href="https://www.linkedin.com/in/janani" target="_blank">linkedin.com/in/janani</a></p>
+            </center>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Janani s</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
